@@ -1,0 +1,6 @@
+Flask==1.1.1
+gevent==1.4.0
+h5py
+numpy
+tensorflow
+Werkzeug==0.16.0
